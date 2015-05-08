@@ -8,7 +8,7 @@
  * @package WordPress
  */
 
-/** Make sure that the WordPress bootstrap has run before continuingss. */
+/** Make sure that the WordPress bootstrap has run before continuings. */
 require( dirname(__FILE__) . '/wp-load.php' );
 
 // Redirect to https login if forced to use SSL
